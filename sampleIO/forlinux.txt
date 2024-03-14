@@ -1,0 +1,11 @@
+blockfall sampleIO/1_big_grid_gravity_switch/grid.dat sampleIO/1_big_grid_gravity_switch/blocks.dat sampleIO/1_big_grid_gravity_switch/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt InfiniteLooper
+blockfall sampleIO/2_game_over/grid.dat sampleIO/2_game_over/blocks.dat sampleIO/2_game_over/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt StackOverthrow
+blockfall sampleIO/3_gravity_change/grid.dat sampleIO/3_gravity_change/blocks.dat sampleIO/3_gravity_change/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt ByteBouncer
+blockfall sampleIO/4_gravity_on/grid.dat sampleIO/4_gravity_on/blocks.dat sampleIO/4_gravity_on/commands.dat GRAVITY_ON sampleIO/leaderboard.txt RecursiveRaider
+blockfall sampleIO/5_longplay_with_powerups/grid.dat sampleIO/5_longplay_with_powerups/blocks.dat sampleIO/5_longplay_with_powerups/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt DebugDropper
+blockfall sampleIO/6_longplay_with_powerups_2/grid.dat sampleIO/6_longplay_with_powerups_2/blocks.dat sampleIO/6_longplay_with_powerups_2/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt ArrayAvenger
+blockfall sampleIO/7_no_more_blocks/grid.dat sampleIO/7_no_more_blocks/blocks.dat sampleIO/7_no_more_blocks/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt NullNinja
+blockfall sampleIO/8_powerup_only/grid.dat sampleIO/8_powerup_only/blocks.dat sampleIO/8_powerup_only/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt HeapHopper
+blockfall sampleIO/9_shortplay/grid.dat sampleIO/9_shortplay/blocks.dat sampleIO/9_shortplay/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt CacheCrasher
+blockfall sampleIO/10_small_grid/grid.dat sampleIO/10_small_grid/blocks.dat sampleIO/10_small_grid/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt ThreadTumbler
+blockfall sampleIO/11_assemble_powerup/grid.dat sampleIO/11_assemble_powerup/blocks.dat sampleIO/11_assemble_powerup/commands.dat GRAVITY_OFF sampleIO/leaderboard.txt ThreadTumbler
